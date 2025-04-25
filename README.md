@@ -19,10 +19,11 @@ The deployed app is no longer available — the domain and hosting were temporar
 - Ubuntu server
 
 
-//
 IP 130.193.54.130
-Frontend https://dasha.nomorepartiesco.ru/
-Backend https://api.dasha.nomorepartiesco.ru/
+<br>
+Frontend: [dasha.nomorepartiesco.ru](https://dasha.nomorepartiesco.ru/)
+<br>
+Backend: [api.dasha.nomorepartiesco.ru](https://api.dasha.nomorepartiesco.ru/)
 
 
 
