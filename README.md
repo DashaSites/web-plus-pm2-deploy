@@ -1,6 +1,6 @@
-### Production deployment for a photo-sharing app (Node.js backend + frontend)
+### Production deploy for a photo-sharing app (Node.js backend + frontend)
 
-This training project was focused on learning how to deploy a full-stack web app to a remote server using PM2 and secure it with HTTPS.
+This training project focused on deploying a full-stack web application to a remote server using PM2 and securing it with HTTPS.
 As part of the task, I:
 - Set up a cloud server and configured a production environment
 - Deployed both frontend and backend using PM2
@@ -8,7 +8,7 @@ As part of the task, I:
 - Configured HTTPS with free SSL certificates
 - Connected a custom domain to the server
 
-The deployed app is no longer available — the domain and hosting were temporary, as this was a learning assignment.
+The deployed app is no longer available — the domain and hosting were temporary, as this was a learning project.
 
 #### Technologies:
 - Node.js + Express backend (API)
