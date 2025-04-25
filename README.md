@@ -1,4 +1,4 @@
-### Production deploy for a photo-sharing app (Node.js backend + frontend)
+### Production deployment for a photo-sharing app (Node.js backend + frontend)
 
 This training project focused on deploying a full-stack web application to a remote server using PM2 and securing it with HTTPS.
 As part of the task, I:
