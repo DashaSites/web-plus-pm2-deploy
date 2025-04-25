@@ -19,7 +19,7 @@ The deployed app is no longer available — the domain and hosting were temporar
 - Ubuntu server
 
 
-IP 130.193.54.130
+IP Address: 130.193.54.130
 <br>
 Frontend: [dasha.nomorepartiesco.ru](https://dasha.nomorepartiesco.ru/)
 <br>
