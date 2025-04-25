@@ -1,20 +1,28 @@
-# Деплой приложения на сервер с использованием pm2
+### Production deployment for a photo-sharing app (Node.js backend + frontend)
 
-Стартеркит проекта по автоматизации деплоя фронтенда и бэкенда при помощи pm2 (pm2 deploy)
+This training project was focused on learning how to deploy a full-stack web app to a remote server using PM2 and secure it with HTTPS.
+As part of the task, I:
+- Set up a cloud server and configured a production environment
+- Deployed both frontend and backend using PM2
+- Set up .env files and PM2 deployment scripts
+- Configured HTTPS with free SSL certificates
+- Connected a custom domain to the server
 
-# Проект: Mesto mp2 deploy
+The deployed app is no longer available — the domain and hosting were temporary, as this was a learning assignment.
 
-1. Создан облачный сервер и установлено необходимое ПО: Node.js, NVM, MongoDB, Git
-2. Добавлен энтрипоинт для краштеста
-3. Описаны сценарии деплоя для бэкенда и фронтенда в файлах ecosystem.config.js
-4. Созданы домены для фронтенда и бэкенда; они прикреплены к серверу
-5. Выпущены и подключены сертификаты SSL
+#### Technologies:
+- Node.js + Express backend (API)
+- React frontend
+- PM2 for deployment
+- Nginx as reverse proxy
+- SSL (Let's Encrypt)
+- Ubuntu server
 
-# IP адрес 130.193.54.130
 
-# Frontend https://dasha.nomorepartiesco.ru/
-
-# Backend https://api.dasha.nomorepartiesco.ru/
+//
+IP 130.193.54.130
+Frontend https://dasha.nomorepartiesco.ru/
+Backend https://api.dasha.nomorepartiesco.ru/
 
 
 
